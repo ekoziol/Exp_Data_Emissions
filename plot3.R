@@ -4,8 +4,11 @@
 # from 1999–2008 for Baltimore City? 
 # Which have seen increases in emissions from 1999–2008? 
 # Use the ggplot2 plotting system to make a plot answer this question.
+
+#require libraries
 require(reshape2)
 require(ggplot2)
+
 # read the data
 NEI <- readRDS("data/exdata_data_NEI_data/summarySCC_PM25.rds")
 SCC <- readRDS("data/exdata_data_NEI_data/Source_Classification_Code.rds")

@@ -1,0 +1,2 @@
+load("/Users/erickoziol/Exp_Data_Emissions/data/exdata_data_NEI_data/Source_Classification_Code.rds")
+load("/Users/erickoziol/Exp_Data_Emissions/data/exdata_data_NEI_data/summarySCC_PM25.rds")
